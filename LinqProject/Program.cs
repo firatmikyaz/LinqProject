@@ -23,6 +23,7 @@ namespace LinqProject
                 new Product{ProductId=4,CategoryId=2,ProductName="Samsung Telefon",QuantityPerUnit="4 gb ram",UnitPrice=5000,UnitsInStock=15},
                 new Product{ProductId=5,CategoryId=2,ProductName="Apple Telefon",QuantityPerUnit="4 gb ram",UnitPrice=8000,UnitsInStock=0}
             };
+            //Fonksiyonlar---
 
             //Test(products);
             //GetProducts(products);
